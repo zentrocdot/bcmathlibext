@@ -51,6 +51,17 @@ If you decide to use the alias right away in the current session, use the follow
 
     source ~/.bashrc
 
+## Installation of bc
+
+    # Debian-based distributions like Ubuntu and Mint
+    ~$ sudo apt-get install bc
+
+    # RPM-based distributions like CentOS which are RHEL compatible
+    ~$ sudo yum install bc
+
+    # Distributions like Fedora which are using the DNF package manager
+    ~$ sudo dnf install bc
+    
 # References
 
 [1] https://org.coloradomesa.edu/~mapierce2/bc/
