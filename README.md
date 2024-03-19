@@ -1,5 +1,8 @@
 # README
 
+> [!NOTE]
+> I am using GNU bc in the version 1.07.1. Bash version is GNU bash in the version 5.1.16. I am working in a Gnome Terminal which has the version 3.44.0 für GNOME 42.
+
 ## Prerequisites
 
 <p align="justify">The prerequistes for using mathlibext.bc is that the Basic Calculator <code>bc</code> is installed. bc is much more than a tool which can be used for some simple calculations in Bash. bc is a programming language. A good introduction can be found in [1].</p>
