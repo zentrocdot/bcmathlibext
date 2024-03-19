@@ -1,7 +1,7 @@
 # README
 
 > [!NOTE]
-> I am using GNU bc in the version 1.07.1. Bash version is GNU bash in the version 5.1.16. I am working in a Gnome Terminal which has the version 3.44.0 für GNOME 42.
+> <p align="justify">I am using GNU bc in the version 1.07.1. Bash version is GNU bash in the version 5.1.16. I am working in a Gnome Terminal which has the version 3.44.0 für GNOME 42.</p>
 
 ## Prerequisites
 
