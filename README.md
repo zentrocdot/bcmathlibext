@@ -12,6 +12,13 @@ to-do...
 
 to-do...
 
+
+# Best practice
+
+sudo nano ~/.bashrc
+
+source ~/.bashrc
+
 # References
 
 [1] https://www.gnu.org/software/bc/manual/html_mono/bc.html
