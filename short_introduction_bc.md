@@ -1,2 +1,13 @@
 # Short introduction in bc
-bc <<< "limits"
+
+## Enter interactive mode of bc
+
+    bc -l
+
+## Leave bc
+
+    quit    
+
+## Show limits
+
+    bc <<< "limits"
