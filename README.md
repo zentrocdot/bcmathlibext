@@ -72,3 +72,5 @@ If you decide to use the alias right away in the current session, use the follow
 [1] https://www.gnu.org/software/bc/manual/html_mono/bc.html
 
 [3] https://www.linode.com/docs/guides/how-to-add-linux-alias-command-in-bashrc-file/
+
+[4] https://www.gnu.org/software/bc/
