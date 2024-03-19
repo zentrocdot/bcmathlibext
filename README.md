@@ -1,8 +1,14 @@
 # README
 
+## Prerequisites
+
+The prerequistes for using mathlibext.bc is that bc is installed.
+
+## Introduction
+
 to-do...
 
-# Implemented functions
+## Implemented functions
 
 to-do...
 
