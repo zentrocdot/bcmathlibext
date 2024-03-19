@@ -37,9 +37,17 @@ Remove the alias by
 
     unalias bc
 
-Second way. Add an alias to the file ~/.bashrc in the home directory.
+Second way. Add an alias to the file ~/.bashrc in the home directory [see also 3].
 
     nano ~/.bashrc
+
+Then add
+
+      alias bc="BC_LINE_LENGTH=0 bc -l -q mathlibext.bc"
+      
+at a suitable place.
+  
+If you decide to use the alias right away in the current session, use the following command:
 
     source ~/.bashrc
 
@@ -49,4 +57,4 @@ Second way. Add an alias to the file ~/.bashrc in the home directory.
 
 [1] https://www.gnu.org/software/bc/manual/html_mono/bc.html
 
-[]
+[3] https://www.linode.com/docs/guides/how-to-add-linux-alias-command-in-bashrc-file/
