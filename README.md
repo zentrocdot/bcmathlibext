@@ -11,9 +11,9 @@
 
 <p align="justify">There are some limits currently in place for the bc processor the manual states. Some or all of them may have been changed during a local installation. Use the limits statement to see the actual valid values [2].</p>
 
-## Implemented functions
+## Standart functions
 
-Standard functions from mathlib
+Standard functions from mathlib library reachable by bc -l
 
 * s (x) The sine of x, x is in radians
 * c (x) The cosine of x, x is in radians
@@ -25,6 +25,20 @@ Standard functions from mathlib
 When bc is invoked by the command line argument -l the former functions can be used.
 
     bc -l
+
+# Implemented functions
+
+Trigonometric functions
+
+    sin(x)
+    cos(X)
+    tan(X)
+
+Inverse trigonometric functions
+
+    asin(X)
+    acos(x)
+    atan(x)
 
 # Best practice
 
