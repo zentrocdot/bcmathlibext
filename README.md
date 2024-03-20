@@ -40,6 +40,12 @@ Inverse trigonometric functions
     acos(x)
     atan(x)
 
+Hyperbolic functions
+
+    sinh(x)
+    cosh(x)
+    tanh(x)
+
 # Best practice
 
 <p align="justify">There are two ways to make working with bc easier.</p>
