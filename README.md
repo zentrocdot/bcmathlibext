@@ -32,19 +32,22 @@ Trigonometric functions
 
     sin(x)
     cos(X)
-    tan(X)
+    tan(x)
+    to-do...
 
 Inverse trigonometric functions
 
     asin(X)
     acos(x)
     atan(x)
+    to-do...
 
 Hyperbolic functions
 
     sinh(x)
     cosh(x)
     tanh(x)
+    to-do...
 
 # Best practice
 
