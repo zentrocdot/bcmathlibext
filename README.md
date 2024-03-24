@@ -3,7 +3,13 @@
 > [!NOTE]
 > <p align="justify">I am using GNU bc in the version 1.07.1. The GNU Bash version I am using is version 5.1.16. I am working in a GNOME terminal which has the version 3.44.0 für GNOME 42.</p>
 
-> <p align="justify">I In the standard version of bc, the accuracy is just as good or just as bad as with maths in Bash. The number of decimal places to be taken into account is 0.</p>
+## Motivation
+
+ <p align="justify">Calculations of all kinds are always needed in the Bash shell. One quickly realises that the possibilities with respect to calculations in the Bash shell itself are limited. Then bc comes into play and more options for calculatiobs are available. After using bc from time to time I realised that bc can much more do than enhance the mathematical possibilities of the Bash shell. By loading user defined scripts bc can be easily extended. Personally I was missing mathematical and physical constants as well as some functions which are available on nearly every hardware hand-held calculator today. So I started a small project with the goal to extend the mathematical posibilities of bc. Some results of my work can be found here.</p>
+
+## Introductory Words
+
+<p align="justify">I In the standard version of bc, the accuracy is just as good or just as bad as with math in Bash. The number of decimal places to be taken into account is by standard 0. After loading the math library the available precision is 20.</p>
 
 ## Prerequisites
 
