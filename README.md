@@ -1,7 +1,9 @@
 # README
 
 > [!NOTE]
-> <p align="justify">I am using GNU bc in the version 1.07.1. Bash version is GNU bash in the version 5.1.16. I am working in a Gnome Terminal which has the version 3.44.0 für GNOME 42.</p>
+> <p align="justify">I am using GNU bc in the version 1.07.1. The GNU Bash version I am using is version 5.1.16. I am working in a GNOME terminal which has the version 3.44.0 für GNOME 42.</p>
+
+> <p align="justify">I In the standard version of bc, the accuracy is just as good or just as bad as with maths in Bash. The number of decimal places to be taken into account is 0.</p>
 
 ## Prerequisites
 
